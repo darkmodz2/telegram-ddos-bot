@@ -1,4 +1,4 @@
-name: Run Telegram Bot
+name: telegram-ddos-bot
 
 on:
   workflow_dispatch:  # manually run karne ke liye
